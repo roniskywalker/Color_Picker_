@@ -16,9 +16,9 @@
         "default_popup": "./popup/index.html"
     },
     "icons": {
-        "16" : "color-picker-1.png",
-        "32" : "color-picker-2.png",
-        "64" : "color-picker-3.png",
-        "128" : "color-picker-4.png"
+        "16" : "./icons/color-picker-1.png",
+        "32" : "./icons/color-picker-2.png",
+        "64" : "./icons/color-picker-3.png",
+        "128" : "./icons/color-picker-4.png"
     }
 }
